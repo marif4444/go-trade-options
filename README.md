@@ -132,7 +132,7 @@ Pick what interests you; not required for a strong score.
 
 ## Submission
 
-- A git repo (or PR against the provided one) with clear, reviewable commits.
+- A git repo with clear, reviewable commits.
 - `go test ./...` and `go test -race ./...` should pass from a clean checkout.
 - We'll schedule a short call to walk through your design and reasoning.
 
