@@ -1,7 +1,7 @@
 # Take-Home: Vol-Aware Indicators for the Strategy Engine
 
 **Role:** Backend / Quant Engineer — Algorithmic Trading Platform
-**Time budget:** 2–3 days of focused effort. We mean it — scope is set so a strong submission fits comfortably. Don't gold-plate; depth and correctness beat breadth.
+**Time budget:** 1 day of focused effort. We mean it — scope is set so a strong submission fits comfortably. Don't gold-plate; depth and correctness beat breadth.
 
 ---
 
