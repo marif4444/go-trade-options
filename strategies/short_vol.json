@@ -1,0 +1,18 @@
+{
+  "name": "short_vol_ivrank",
+  "lookback": 20,
+  "side": "SHORT",
+  "qty": 1,
+  "entry": {
+    "logic": "ALL",
+    "predicates": [
+      { "type": "RELATION", "left": { "indicator": "IV_RANK" }, "op": ">", "right": { "const": 50 } }
+    ]
+  },
+  "exit": {
+    "logic": "ANY",
+    "predicates": [
+      { "type": "RELATION", "left": { "indicator": "IV_RANK" }, "op": "<", "right": { "const": 30 } }
+    ]
+  }
+}
